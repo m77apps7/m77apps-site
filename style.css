@@ -45,3 +45,6 @@ ul { padding-left: 22px; }
 .app p { margin-bottom: 0; color: var(--muted); }
 footer { border-top: 1px solid var(--rule); margin-top: 56px; padding-top: 16px; color: var(--muted); font-size: 14px; }
 footer a { color: var(--muted); }
+a.app { display: block; text-decoration: none; color: inherit; }
+a.app:hover { border-color: var(--accent); }
+a.app h3 { color: var(--text); }

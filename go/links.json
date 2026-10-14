@@ -1,0 +1,10 @@
+{
+  "_about": "Short links: m77apps.com/go/<slug> forwards to target. Edit a target here, then run tools/build-go.py and commit. Registry with ct tokens and placement: board `links` collection (t-101).",
+  "ig": {"target": "https://m77apps.com/punfortunate/", "ct": "ig_bio", "where": "Instagram bio"},
+  "tt": {"target": "https://m77apps.com/punfortunate/", "ct": "tiktok_bio", "where": "TikTok bio"},
+  "x": {"target": "https://m77apps.com/punfortunate/", "ct": "x_bio", "where": "X profile website"},
+  "th": {"target": "https://m77apps.com/punfortunate/", "ct": "threads_bio", "where": "Threads bio"},
+  "fb": {"target": "https://m77apps.com/punfortunate/", "ct": "fb_bio", "where": "Facebook page"},
+  "bsky": {"target": "https://m77apps.com/punfortunate/", "ct": "bsky_bio", "where": "Bluesky bio"},
+  "yt": {"target": "https://m77apps.com/punfortunate/", "ct": "yt_bio", "where": "YouTube channel links"}
+}

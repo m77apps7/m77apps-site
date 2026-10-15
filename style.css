@@ -48,3 +48,22 @@ footer a { color: var(--muted); }
 a.app { display: block; text-decoration: none; color: inherit; }
 a.app:hover { border-color: var(--accent); }
 a.app h3 { color: var(--text); }
+.media-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(200px, 40%), 1fr)); margin: 16px 0; }
+.media-grid figure { margin: 0; }
+.media-grid video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; border-radius: 12px; border: 1px solid var(--rule); background: var(--card); }
+.media-grid figcaption { font-size: 14px; line-height: 1.5; color: var(--muted); margin-top: 8px; }
+.shot-grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); margin: 12px 0 8px; }
+.shot-grid.duo { grid-template-columns: repeat(auto-fill, minmax(min(140px, 28%), 1fr)); }
+.shot-grid img { display: block; width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--rule); }
+.shot-grid a:hover img { border-color: var(--accent); }
+.app-icon { display: block; width: 128px; height: 128px; border-radius: 28px; border: 1px solid var(--rule); }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 8px 20px; margin: 16px 0; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+@media (max-width: 520px) {
+  .facts { grid-template-columns: 1fr; gap: 0; }
+  .facts dd { margin-bottom: 12px; }
+}
+blockquote.quote { margin: 16px 0; padding: 4px 0 4px 20px; border-left: 3px solid var(--accent); }
+blockquote.quote p { font-size: 19px; margin: 0 0 8px; }
+blockquote.quote footer { border: 0; margin: 0; padding: 0; font-size: 15px; }

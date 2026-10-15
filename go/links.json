@@ -6,5 +6,11 @@
   "th": {"target": "https://m77apps.com/punfortunate/", "ct": "threads_bio", "where": "Threads bio"},
   "fb": {"target": "https://m77apps.com/punfortunate/", "ct": "fb_bio", "where": "Facebook page"},
   "bsky": {"target": "https://m77apps.com/punfortunate/", "ct": "bsky_bio", "where": "Bluesky bio"},
-  "yt": {"target": "https://m77apps.com/punfortunate/", "ct": "yt_bio", "where": "YouTube channel links"}
+  "yt": {"target": "https://m77apps.com/punfortunate/", "ct": "yt_bio", "where": "YouTube channel links"},
+  "press": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_kit", "where": "Press kit page (m77apps.com/press), App Store link"},
+  "9to5mac": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_9to5mac", "where": "Pitch to 9to5Mac"},
+  "macstories": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_macstories", "where": "Pitch to MacStories"},
+  "macrumors": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_macrumors", "where": "Pitch to MacRumors"},
+  "verge": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_theverge", "where": "Pitch to The Verge"},
+  "engadget": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_engadget", "where": "Pitch to Engadget"}
 }

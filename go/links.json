@@ -7,10 +7,10 @@
   "fb": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=fb_bio&mt=8", "ct": "fb_bio", "where": "Facebook page"},
   "bsky": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=bsky_bio&mt=8", "ct": "bsky_bio", "where": "Bluesky bio"},
   "yt": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=yt_bio&mt=8", "ct": "yt_bio", "where": "YouTube channel links"},
-  "press": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_kit", "where": "Press kit page (m77apps.com/press), App Store link"},
-  "9to5mac": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_9to5mac", "where": "Pitch to 9to5Mac"},
-  "macstories": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_macstories", "where": "Pitch to MacStories"},
-  "macrumors": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_macrumors", "where": "Pitch to MacRumors"},
-  "verge": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_theverge", "where": "Pitch to The Verge"},
-  "engadget": {"target": "https://apps.apple.com/app/id6818921960", "ct": "press_engadget", "where": "Pitch to Engadget"}
+  "press": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_kit&mt=8", "ct": "press_kit", "where": "Press kit page (m77apps.com/press), App Store link"},
+  "9to5mac": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_9to5mac&mt=8", "ct": "press_9to5mac", "where": "Pitch to 9to5Mac"},
+  "macstories": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_macstories&mt=8", "ct": "press_macstories", "where": "Pitch to MacStories"},
+  "macrumors": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_macrumors&mt=8", "ct": "press_macrumors", "where": "Pitch to MacRumors"},
+  "verge": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_theverge&mt=8", "ct": "press_theverge", "where": "Pitch to The Verge"},
+  "engadget": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_engadget&mt=8", "ct": "press_engadget", "where": "Pitch to Engadget"}
 }

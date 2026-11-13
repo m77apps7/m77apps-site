@@ -2,8 +2,9 @@
 """Writes go/<slug>/index.html for every short link in go/links.json.
 
 GitHub Pages can't send server redirects, so each short link is a tiny page that forwards at
-once (meta refresh, plus a script for browsers that ignore it). The page keeps nothing about the
-visitor. Pages for slugs no longer in links.json are removed.
+once (meta refresh, plus a script for browsers that ignore it). Before forwarding, the script sends
+one count for /go/<slug> to GoatCounter (t-168, no cookies, no IP stored; see /privacy/). The fetch
+uses keepalive so it survives the redirect. Pages for slugs no longer in links.json are removed.
 
     python3 tools/build-go.py
 """
@@ -11,6 +12,8 @@ import html
 import json
 import shutil
 from pathlib import Path
+
+COUNT = "https://m77apps.goatcounter.com/count"
 
 site = Path(__file__).resolve().parent.parent
 go = site / "go"
@@ -26,7 +29,7 @@ PAGE = """<!doctype html>
 <meta http-equiv="refresh" content="0; url={attr}">
 <link rel="canonical" href="{attr}">
 <title>Punfortunate · M77 Apps</title>
-<script>location.replace({js});</script>
+<script>try{{fetch({count},{{mode:"no-cors",keepalive:true,credentials:"omit",referrerPolicy:"no-referrer"}})}}catch(e){{}}location.replace({js});</script>
 </head>
 <body>
 <p>Opening <a href="{attr}">Punfortunate</a>…</p>
@@ -40,7 +43,7 @@ for slug, link in links.items():
         raise SystemExit(f"{slug}: target must be an https URL")
     folder = go / slug
     folder.mkdir(exist_ok=True)
-    (folder / "index.html").write_text(PAGE.format(attr=html.escape(target), js=json.dumps(target)))
+    (folder / "index.html").write_text(PAGE.format(attr=html.escape(target), js=json.dumps(target), count=json.dumps(f"{COUNT}?p=/go/{slug}")))
 
 for folder in go.iterdir():
     if folder.is_dir() and folder.name not in links:

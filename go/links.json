@@ -12,5 +12,18 @@
   "macstories": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_macstories&mt=8", "ct": "press_macstories", "where": "Pitch to MacStories"},
   "macrumors": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_macrumors&mt=8", "ct": "press_macrumors", "where": "Pitch to MacRumors"},
   "verge": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_theverge&mt=8", "ct": "press_theverge", "where": "Pitch to The Verge"},
-  "engadget": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_engadget&mt=8", "ct": "press_engadget", "where": "Pitch to Engadget"}
+  "engadget": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_engadget&mt=8", "ct": "press_engadget", "where": "Pitch to Engadget"},
+  "t3": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_t3&mt=8", "ct": "press_t3", "where": "Pitch to T3 (Mat Gallagher, Duo apps roundup)"},
+  "popsci": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_popsci&mt=8", "ct": "press_popsci", "where": "Pitch to Popular Science (Duo apps roundup)"},
+  "igeeksblog": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_igeeksblog&mt=8", "ct": "press_igeeksblog", "where": "Pitch to iGeeksBlog (Duo apps roundup)"},
+  "techradar": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_techradar&mt=8", "ct": "press_techradar", "where": "Pitch to TechRadar"},
+  "tomsguide": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_tomsguide&mt=8", "ct": "press_tomsguide", "where": "Pitch to Tom's Guide"},
+  "cultofmac": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_cultofmac&mt=8", "ct": "press_cultofmac", "where": "Pitch to Cult of Mac"},
+  "idb": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_idownloadblog&mt=8", "ct": "press_idownloadblog", "where": "Pitch to iDownloadBlog"},
+  "appleinsider": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_appleinsider&mt=8", "ct": "press_appleinsider", "where": "Pitch to AppleInsider (contact form)"},
+  "macworld": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_macworld&mt=8", "ct": "press_macworld", "where": "Pitch to Macworld"},
+  "fatherly": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_fatherly&mt=8", "ct": "press_fatherly", "where": "Thanksgiving pitch to Fatherly"},
+  "mashable": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_mashable&mt=8", "ct": "press_mashable", "where": "Thanksgiving pitch to Mashable"},
+  "lifehacker": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_lifehacker&mt=8", "ct": "press_lifehacker", "where": "Thanksgiving pitch to Lifehacker"},
+  "mattkeil": {"target": "https://apps.apple.com/app/apple-store/id6818921960?pt=129554352&ct=press_yt_mattkeil&mt=8", "ct": "press_yt_mattkeil", "where": "Pitch to YouTube: Matt Keil"}
 }

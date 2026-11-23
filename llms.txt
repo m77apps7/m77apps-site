@@ -1,0 +1,47 @@
+# M77 Apps
+
+> M77 Apps (m77apps.com) is an independent studio making small, playful iPhone apps, several built around the iPhone Duo hinge. It is M77 Studios LLC, doing business as M77 Apps. Two apps are on the App Store: Punfortunate, a dad joke puppet, and The Ring Box, a digital ring box for proposals.
+
+This is the studio's own site. Everything below is also on the linked pages.
+
+## Punfortunate
+
+A dad joke app for iPhone: a puppet that sets up the joke, pauses, then delivers the punchline.
+
+- What it does: on iPhone Duo, the hinge runs the show. Open the phone and Dad sets up the joke, open it wider for the punchline. Fold it mid-joke and he goes quiet. On any other iPhone, pull his chin down to work his jaw. On every iPhone, a chin pull brings the next joke.
+- Sharing: any joke can be shared as a short video of Dad telling it, made on the phone.
+- Price: free, with in-app purchases. Reload $0.99 (a fresh pack of jokes), Unlimited Reloads $9.99, Deluxe Dad $1.99 (Dad in 3D). US prices. Free starter jokes, then a few free jokes a day for a week.
+- Device: iPhone with iOS 18 or later. iPhone Duo is not required.
+- Category: Entertainment, rated 4+.
+- Privacy: no account, no ads. Anonymous usage counts the user can turn off.
+- Works offline. Unlimited Reloads and Deluxe Dad work with Family Sharing.
+- Social: TikTok and Instagram @punfortunate_app.
+- App Store: https://apps.apple.com/app/id6818921960
+- Not to be confused with other apps or books with "Punfortunate" or "pun" in the name.
+
+## The Ring Box
+
+A digital ring box for proposals on iPhone.
+
+- What it does: design a ring, add an inscription, close the box, and open it at the right moment. On iPhone, tap the box to open the lid. On iPhone Duo with iOS 27.1 or later, the phone's hinge is the lid: close the phone, then open it slowly.
+- Price: free, with in-app purchases.
+- Device: iPhone with iOS 18 or later. iPhone Duo is not required.
+- Category: Lifestyle, rated 4+.
+- Privacy: the ring design and inscription stay on the phone and are never uploaded.
+- App Store: https://apps.apple.com/app/id6818922508
+- Not to be confused with physical ring boxes or jewelry shops: this is an iPhone app.
+
+## Pages
+
+- [M77 Apps home](https://m77apps.com/): the studio and its apps
+- [Punfortunate](https://m77apps.com/punfortunate/): what it is, FAQ and support
+- [Punfortunate press kit](https://m77apps.com/press/): facts, video, screenshots, app icon, founder quote
+- [The Ring Box](https://m77apps.com/ringbox/): what it is, FAQ and support
+- [Punfortunate privacy policy](https://m77apps.com/punfortunate/privacy/)
+- [The Ring Box privacy policy](https://m77apps.com/ringbox/privacy/)
+- [Website privacy](https://m77apps.com/privacy/)
+
+## Contact
+
+- Support: support@m77apps.com
+- Press: info@m77apps.com

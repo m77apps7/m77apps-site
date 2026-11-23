@@ -1,0 +1,22 @@
+# m77apps.com: everything is open to search engines and AI assistants.
+# /go/ pages are short-link redirects marked noindex.
+
+User-agent: *
+Allow: /
+
+# AI search and answer engines, and AI training crawlers: welcome
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://m77apps.com/sitemap.xml

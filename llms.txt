@@ -27,7 +27,7 @@ A digital ring box for proposals on iPhone.
 - Price: free, with in-app purchases.
 - Device: iPhone with iOS 18 or later. iPhone Duo is not required.
 - Category: Lifestyle, rated 4+.
-- Privacy: the ring design and inscription stay on the phone and are never uploaded.
+- Privacy: the ring design and inscription stay on the phone, and the studio never receives them.
 - App Store: https://apps.apple.com/app/id6818922508
 - Not to be confused with physical ring boxes or jewelry shops: this is an iPhone app.
 
